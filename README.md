@@ -1,7 +1,7 @@
 # Bdfd-https-
 Complete free guide of bdfd $http functions with examples # 🌐 HTTP Functions
 
-> Learn how to communicate with APIs using BDFD. These functions power AI bots, economy systems, transcripts, welcome cards, databases, and much more.
+ Learn how to communicate with APIs using BDFD. These functions power AI bots, economy systems, transcripts, welcome cards, databases, and much more.
 
 ---
 
